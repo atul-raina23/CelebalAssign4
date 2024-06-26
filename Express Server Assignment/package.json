@@ -1,0 +1,14 @@
+{
+  "name": "express-server-assignment",
+  "version": "1.0.0",
+  "description": "Project to set up a simple web server using Express.js with basic routing and middleware",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
